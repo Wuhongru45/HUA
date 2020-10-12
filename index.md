@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<center>
+<div id="head">
+<table width="1000"border="0"cellpadding="0"cellspacing="0">
+<tr>
+      <td><img src="title.jpg"width="1000"height="100"</td>
+      
+</tr>
 
-You can use the [editor on GitHub](https://github.com/Wuhongru45/HUA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<tr>
+       <td align="center"><h1>火星觀測站</h1></td>
+</tr>
+</table>  
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<div id="nav1"><br>
+<table width="1000"border="0"cellpadding="0"cellspacing="1"bgcolor="#999999">
+<tr>
+      <td bgcolor="#FFFFFF"><a href="index.htm">作品集<a>　>
+<a href="index.htm">繪圖設計</a>
+　>　火星國之繪畫設計
+</td>      
+</tr>
+</table>  
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div id="cont"><br/>
+<table border="0" width="1000" cellpadding="0"cellspacing="1" bgcolor="#999999">
+<tr>
+<td align="center" bgcolor="#FFFFFF" colspan="2" valign="center" ><font size="36"><b>旅遊行程規畫作品</b></font></td>
+</tr>
 
-```markdown
-Syntax highlighted code block
+<tr>
+<td width="191" bgcolor="#FFFFFF" valign="top" >
+<table width="181" cellpadding="0"cellspacing="1">
+<tr>選單列
+<td width="171">選項一</td>
+<tr>
+<tr>
+<td width="171">選項一</td>
+<tr>
+<tr>
+<td width="171">選項一</td>
+<tr>
+</table>
+</td>
+<td width="806" bgcolor="#FFFFFF" valign="top" >
+<table width="800" cellpadding="0"cellspacing="1" >
+<tr>
+<td ><img src="https://i.kfs.io/artist/global/2479126,0v9/fit/300x300.jpg" width="145" height="200"></td>
+<td ><img src="https://i.kfs.io/artist/global/2479126,0v9/fit/300x300.jpg" width="145" height="200"></td>
+<td ><img src="https://i.kfs.io/artist/global/2479126,0v9/fit/300x300.jpg" width="145" height="200"></td>
+<td ><img src="https://i.kfs.io/artist/global/2479126,0v9/fit/300x300.jpg" width="145" height="200"></td>
+<td ><img src="https://i.kfs.io/artist/global/2479126,0v9/fit/300x300.jpg" width="145" height="200"></td>
+<tr>
 
-# Header 1
-## Header 2
-### Header 3
+<tr>
+<td ><a href="https://weibo.com/u/1624923463?is_all=1" target="_blank">活動截修圖</a></td>
+<td ><a href="http://www.nuu.edu.tw" target="_blank">活動截修圖</a></td>
+<td ><a href="http://www.nuu.edu.tw" target="_blank">活動截修圖</a></td>
+<td ><a href="http://www.nuu.edu.tw" target="_blank">活動截修圖</a></td>
+<td ><a href="http://www.nuu.edu.tw" target="_blank">活動截修圖</a></td>
+<tr>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+</table>
+</td>
 
-**Bold** and _Italic_ and `Code` text
+</tr>
 
-[Link](url) and ![Image](src)
-```
+</table>
+</div>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wuhongru45/HUA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
